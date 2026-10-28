@@ -1,0 +1,6 @@
+Metric,Score
+Accuracy,0.9196
+Precision,0.9994
+Recall,0.8665
+F1-Score,0.9282
+ROC-AUC,0.9413
